@@ -29,7 +29,7 @@
     "@hono/node-server": "^2.0.4",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.1",
-    "esbuild": "0.28.0",
+    "esbuild": "0.28.1",
     "hono": "^4.12.25",
     "nanoid": "^5.1.11"
   },
